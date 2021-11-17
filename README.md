@@ -1,2 +1,2 @@
-This is a reverse array using python 
-using reverse() 
+ini adalah reverse array menggunakan python
+dengan menggunakan metode reverse()
